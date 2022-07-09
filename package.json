@@ -1,0 +1,18 @@
+{
+  "name": "bocoran-admin-jarwo",
+  "theme": "ui",
+  "version": "1.4.2",
+  "description": "Bocoran Admin Jarwo",
+  "keywords": [
+    "RTP LIVE",
+    "bocoran RTP",
+    "RTP admin jarwo",
+    "bocoran admin jarwo",
+    "bocoran slot pragmtic"
+  ],
+  "repository": "https://github.com/Alex-MKRV/bocoran-admin-jarwo",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
